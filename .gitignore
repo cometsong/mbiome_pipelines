@@ -1,0 +1,32 @@
+# pip and venv ignores
+pip-selfcheck.json
+pyvenv.cfg
+share/**
+lib/**
+lib64
+man/
+src/
+
+#  Linux ignores
+!.gitignore
+*~
+
+#  Vim ignores
+.*.sw[a-z]
+*.un~
+
+# Ignore tags created by ctags
+tags
+.tags
+tags-*
+!tags/
+
+
+# from gitignores Global/Eclipse.gitignore 
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+local.properties
+
