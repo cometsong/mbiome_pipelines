@@ -57,7 +57,7 @@ SQLAlchemy==1.2.7
 statsmodels==0.9.0
 toposort==1.5
 tornado==5.0.2
-urllib3==1.22
+urllib3==1.24.2
 weblogo==3.6.0
 xlwt==1.3.0
 # Following are modules with requirements from above...
